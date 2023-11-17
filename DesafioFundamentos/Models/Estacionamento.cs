@@ -8,6 +8,7 @@ namespace DesafioFundamentos.Models
 
         public Estacionamento(decimal precoInicial, decimal precoPorHora)
         {
+
             this.precoInicial = precoInicial;
             this.precoPorHora = precoPorHora;
         }
